@@ -1,11 +1,11 @@
-About r-choroplethrmaps
-=======================
+About r-choroplethrmaps-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-choroplethrmaps-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.arilamstein.com/open-source
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-choroplethrmaps-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains 3 maps. 1) US States 2) US Counties 3) Countries of the world.
 
